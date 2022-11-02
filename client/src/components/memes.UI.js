@@ -42,7 +42,7 @@ function Memes() {
             <ul>
                 <div>
                 {
-                    <img src={data.data.memes[index].url} width="300px"></img>
+                    <img src={data.data.memes[index].url} width="300px" alt="..."></img>
                 }
                 </div>
             </ul>
